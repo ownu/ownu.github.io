@@ -1,0 +1,16 @@
+td {
+  height: 2em;
+  width: 2em;
+  border-style: solid;
+  border-color: green;
+}
+
+.hit {
+  background: url('../images/ship.png') center no-repeat;
+  background-size: 2em;
+}
+
+.miss {
+    background: url('../images/miss.png') center no-repeat;
+    background-size: 2em;
+}
